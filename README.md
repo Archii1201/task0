@@ -23,9 +23,7 @@ A production-ready full-stack task management system built with **FastAPI** and 
 
 ![Login](./screenshots/login.png)
 
-### 📋 Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
 
 ### 📄 Swagger API Documentation
 
