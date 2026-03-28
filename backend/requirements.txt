@@ -1,0 +1,12 @@
+# Pinned for broad wheel support (incl. Python 3.13). Adjust as needed for your environment.
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+sqlalchemy==2.0.36
+pydantic==2.10.6
+pydantic-settings==2.7.0
+pydantic[email]==2.10.6
+python-jose[cryptography]==3.3.0
+bcrypt==4.2.1
+python-multipart==0.0.20
+email-validator==2.2.0
+python-dotenv==1.0.1
