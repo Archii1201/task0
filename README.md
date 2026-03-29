@@ -29,7 +29,7 @@ A production-ready full-stack task management system built with **FastAPI** and 
 
 ![Swagger](./screenshots/swagger.png)
 
-> 📌 Add your screenshots inside a `screenshots/` folder in your repository.
+
 
 ---
 
